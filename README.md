@@ -1,1 +1,1 @@
-# Hanggies 짱짱
+# Hanggies
