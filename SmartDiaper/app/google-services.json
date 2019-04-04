@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004076197921",
+    "firebase_url": "https://smart-diaper-62238.firebaseio.com",
+    "project_id": "smart-diaper-62238",
+    "storage_bucket": "smart-diaper-62238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004076197921:android:065442a9db4bc81d",
+        "android_client_info": {
+          "package_name": "cse.hansung.kr.smartdiaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004076197921-h8hffdnhucnt1n074aea75d8a9t2u7t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cse.hansung.kr.smartdiaper",
+            "certificate_hash": "7194cc03aa08d1b72445c18cd6847d3c3465a845"
+          }
+        },
+        {
+          "client_id": "1004076197921-g1fcmcv7r4ql770lnfv22b112r4gtb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4f_jWQEf6LPRihQZM9wlMY6Os9FQRB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004076197921-g1fcmcv7r4ql770lnfv22b112r4gtb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
